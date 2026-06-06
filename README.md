@@ -14,6 +14,9 @@
 ## 點擊main.exe
 ![UML Diagram](main.png)
 
+# 程式畫面截圖
+![UML Diagram](game.png)
+
 #分工資訊
-## 張虔立 編寫程式、
+## 張虔立 編寫程式、製作程式UI、
 ## 莊承翰 編寫程式、製作Readme、
