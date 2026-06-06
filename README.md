@@ -12,3 +12,8 @@
 
 # 程式如何安裝執行
 ## 點擊main.exe
+![UML Diagram](main.png)
+
+#分工資訊
+## 張虔立 編寫程式、
+## 莊承翰 編寫程式、製作Readme、
